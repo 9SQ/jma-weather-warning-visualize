@@ -1,0 +1,242 @@
+{
+  "00": {
+    "name": "気象警報・注意報は発表されていません",
+    "level": "none",
+    "levelName": "発表なし",
+    "rank": 0
+  },
+  "02": {
+    "name": "暴風雪警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "03": {
+    "name": "レベル３大雨警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "05": {
+    "name": "暴風警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "06": {
+    "name": "大雪警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "07": {
+    "name": "波浪警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "08": {
+    "name": "レベル３高潮警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "09": {
+    "name": "レベル３土砂災害警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "10": {
+    "name": "レベル２大雨注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "12": {
+    "name": "大雪注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "13": {
+    "name": "風雪注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "14": {
+    "name": "雷注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "15": {
+    "name": "強風注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "16": {
+    "name": "波浪注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "17": {
+    "name": "融雪注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "18": {
+    "name": "洪水注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "19": {
+    "name": "レベル２高潮注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "20": {
+    "name": "濃霧注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "21": {
+    "name": "乾燥注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "22": {
+    "name": "なだれ注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "23": {
+    "name": "低温注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "24": {
+    "name": "霜注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "25": {
+    "name": "着氷注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "26": {
+    "name": "着雪注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "27": {
+    "name": "その他注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "29": {
+    "name": "レベル２土砂災害注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "32": {
+    "name": "暴風雪特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "33": {
+    "name": "レベル５大雨特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "35": {
+    "name": "暴風特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "36": {
+    "name": "大雪特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "37": {
+    "name": "波浪特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "38": {
+    "name": "レベル５高潮特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "39": {
+    "name": "レベル５土砂災害特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "43": {
+    "name": "レベル４大雨危険警報",
+    "level": "urgent",
+    "levelName": "危険警報",
+    "rank": 3
+  },
+  "48": {
+    "name": "レベル４高潮危険警報",
+    "level": "urgent",
+    "levelName": "危険警報",
+    "rank": 3
+  },
+  "49": {
+    "name": "レベル４土砂災害危険警報",
+    "level": "urgent",
+    "levelName": "危険警報",
+    "rank": 3
+  },
+  "F04": {
+    "name": "レベル３氾濫警報",
+    "level": "warning",
+    "levelName": "警報",
+    "rank": 2
+  },
+  "F18": {
+    "name": "レベル２氾濫注意報",
+    "level": "advisory",
+    "levelName": "注意報",
+    "rank": 1
+  },
+  "F34": {
+    "name": "レベル５氾濫特別警報",
+    "level": "emergency",
+    "levelName": "特別警報",
+    "rank": 4
+  },
+  "F44": {
+    "name": "レベル４氾濫危険警報",
+    "level": "urgent",
+    "levelName": "危険警報",
+    "rank": 3
+  }
+}

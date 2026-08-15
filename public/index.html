@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>気象警報・注意報マップ</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.css"
+    />
+    <link rel="stylesheet" href="./css/app.css" />
+    <script src="https://unpkg.com/maplibre-gl@5.6.0/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/pmtiles@3.2.0/dist/pmtiles.js"></script>
+  </head>
+  <body>
+    <aside class="panel" aria-label="警報・注意報の集計">
+      <div class="panel__header">
+        <h1>気象警報・注意報</h1>
+        <div class="meta" id="updated">読み込み中</div>
+      </div>
+      <div class="summary">
+        <div class="counts" id="counts" aria-live="polite"></div>
+      </div>
+      <details class="details">
+        <summary class="details__summary">
+          <span class="details__title">発表中の警報・注意報別</span>
+          <span class="details__indicator" aria-hidden="true"></span>
+        </summary>
+        <ul class="code-list" id="kindList"></ul>
+      </details>
+      <div class="status" id="status" hidden></div>
+    </aside>
+    <main id="map" aria-label="気象警報・注意報の地図"></main>
+
+    <script src="./js/app.js"></script>
+  </body>
+</html>
